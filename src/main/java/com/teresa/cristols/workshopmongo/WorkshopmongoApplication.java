@@ -1,4 +1,4 @@
-package com.teresa.cristols;
+package com.teresa.cristols.workshopmongo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
